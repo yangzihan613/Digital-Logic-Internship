@@ -1,0 +1,27 @@
+(ExpressProject "one"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\one.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "C:\Cadence\SPB_16.6\tools\capture\113b\one.dsn")
+      (Path "Design Resources" "C:\Cadence\SPB_16.6\tools\capture\113b\one.dsn"
+         "one sch")
+      (Path "Design Resources" "C:\Cadence\SPB_16.6\tools\capture\113b\one.dsn"
+         "Design Cache"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 289"))
+      (Tab 0))))
